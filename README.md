@@ -1,4 +1,4 @@
-trunk
-=====
 
-根目录
+
+安装
+npm install @hd/iot
